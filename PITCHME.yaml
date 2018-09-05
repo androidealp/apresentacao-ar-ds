@@ -1,0 +1,6 @@
+layout : center-right
+theme-override : css/style.css
+theme : white 
+highlight : monokai
+layout : center-left
+background : images/bk_fundo.jpg
