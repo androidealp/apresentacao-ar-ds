@@ -1,7 +1,13 @@
+slides{
+    width:1200px !important;
+}
+
 .title{
-    font-size: 150%;;
-    color:#777;
+    display: block;
+    font-size: 150% !important;
+    color: #777;
     text-transform: uppercase;
+    width: 100%;
 }
 
 .subtitulo{
