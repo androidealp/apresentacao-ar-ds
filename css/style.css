@@ -1,5 +1,5 @@
 .title{
-
+    font-size: 45px;
     color:#777;
     text-transform: uppercase;
 }
@@ -10,4 +10,5 @@
 
 .orange{
     color:rgba(255, 97, 6, 0.876);
+    font-weight: bold;
 }
