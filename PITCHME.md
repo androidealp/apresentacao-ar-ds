@@ -14,9 +14,12 @@
 
 @css[title](O tempo é muito importante)
 
- - Criamos
- - tratamos
- -inserimos
+@ul
+- Calcule o tempo por recurso criado
+- Reaproveitamento de código
+- Documente todo o código
+@ulend
+
 @divend
 
 @div[left-50] 
