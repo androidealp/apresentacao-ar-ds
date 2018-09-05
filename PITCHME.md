@@ -10,4 +10,15 @@
 
 ---
 
-## The End :)
+@div[left-50] 
+
+@css[title](O tempo é muito importante)
+
+ - Criamos
+ - tratamos
+ -inserimos
+@divend
+
+@div[left-50] 
+![destaque](images/img-2.gif)
+@divend
