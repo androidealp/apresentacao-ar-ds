@@ -1,11 +1,11 @@
-@snap[west]
+@div[left-50] 
 ## @css[title](Análise de requisitos e desenvolvimento de sistemas)
 @css[subtitulo](Construindo projetos de forma inteligente @css[orange]({}))
-@snapend
+@divend
 
-@snap[east]
-@css[image50](![destaque](images/img-1.gif))
-@snapend
+@div[left-50] 
+![destaque](images/img-1.gif)
+@divend
 
 ---
 
