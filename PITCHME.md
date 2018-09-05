@@ -4,7 +4,7 @@
 @snapend
 
 @snap[east]
-![destaque](images/img-1.gif)
+@css[image-50](![destaque](images/img-1.gif))
 @snapend
 
 ---

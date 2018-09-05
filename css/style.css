@@ -12,3 +12,8 @@
     color:rgba(255, 97, 6, 0.876);
     font-weight: bold;
 }
+
+.image-50{
+    width:50%;
+    float:right;
+}
