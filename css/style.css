@@ -17,3 +17,7 @@
     width:50%;
     float:right;
 }
+
+.reveal section img{
+    border:none !important;
+}
