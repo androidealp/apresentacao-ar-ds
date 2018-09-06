@@ -27,6 +27,32 @@
 
 ---
 
+@css[title](Documentação sistêmica)
+
+@css[subtitulo](O ideal é que todos os projetos tenha uma documentação clara e objetiva)
+
+@ul
+- Detalhamento das ferramentas que serão usadas
+- Layout sugerido, junto com as referências para desenvolvimento
+- Detalhamento das páginas principais, as que tem muitos recursos
+- Horas previsas para cada conjunto de informações
+@ulend
+
+@div[destaque] 
+*As horas podem sofre modificação por conta do wireframe e do banco de dados*
+@divend
+
+![documentacao](images/documentacao.gif)
+ 
+
+---
+
+@css[title](Wire frame de baixa resolução)
+
+@css[subtitulo](O ideal é que todos os projetos tenha uma documentação clara e objetiva)
+
+---
+
 @css[title](O tempo é muito importante)
 
 @div[left-50] 

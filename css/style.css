@@ -28,3 +28,13 @@ img{
     border:none !important;
     box-shadow:none;
 }
+
+.destaque
+{
+    width: 100%;
+    display: block;
+    padding: 30px;
+    color:#d83232d5;
+    border-top: 3px solid #d83232d5;
+    border-bottom: 3px solid #d83232d5;
+}
