@@ -16,7 +16,7 @@
 @ul
 - @css[orange](G)oals: Objetivos
 - @css[orange](O)perations: Operadores
-- @css[orange](M)ethods: Metodos
+- @css[orange](M)ethods: Métodos
 - @css[orange](S)election Rules: Regras de seleção
 @ulend
 @divend
@@ -29,7 +29,7 @@
 
 @css[title](Documentação sistêmica)
 
-@css[subtitulo](O ideal é que todos os projetos tenha uma documentação clara e objetiva)
+@css[subtitulo](O ideal é que todos os projetos tenham uma documentação clara e objetiva)
 
 @div[left-50] 
 @ul[minurl]
@@ -37,7 +37,7 @@
 - Layout sugerido, junto com as referências para desenvolvimento
 - Detalhamento das páginas principais, as que tem muitos recursos
 - Horas previsas para cada conjunto de informações
-- @css[destaque](*As horas podem sofre modificação por conta do wireframe e do banco de dados*)
+- @css[destaque](As horas podem sofrer modificação por conta do wireframe e do banco de dados)
 @ulend
 
 @divend
@@ -62,9 +62,9 @@
 
 ---
 
-@css[title](Wireframe de Media fidelidade)
+@css[title](Wireframe de media fidelidade)
 
-@css[subtitulo](Não possui o layout pronto, e sim detalhamento das funcionalidades e posições)
+@css[subtitulo](Não possui o layout pronto, o foco é o detalhamento das funcionalidades e posições)
 
 @div[center-img]
 ![drilldown](images/wiremedia.jpg)
@@ -84,7 +84,7 @@
 
 @css[title](MER)
 
-@css[subtitulo](@css[orange](Modelo de entidade relacional) Este é o coração do projeto, toda a interação de banco é prevista por ele)
+@css[subtitulo](@css[orange](Modelo de entidade relacional): Este é o coração do projeto, toda a interação de banco é prevista por ele)
 
 
 @div[center-img]
@@ -102,13 +102,13 @@
 ---?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&color=white&title=Orientado a Objeto
 
 @[1-5](Comentário principal do objeto)
-@[6](Objeto em si)
+@[6](Início do Objeto)
 @[8-11](Comentário e uma váriavel criada)
 @[23-29](Comentário do construtor)
 @[30-35](Construtor)
 @[42-45](Retorna o nome criado)
-@[69](Gero uma instância do objeto)
-@[71-72](Exibo na tela a requisição seuNome)
+@[69](Inicia a instância do objeto)
+@[71-72](Exibi na tela a requisição seuNome())
 
 ---
 
