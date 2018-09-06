@@ -74,7 +74,7 @@
 
 @css[title](Wireframe de Alta fidelidade)
 
-@css[subtitulo](Possui o Layout integrado, todos os recursos estabelecidos aqui serão implementados no sistema)
+@css[subtitulo](Possui o layout integrado, todos os recursos estabelecidos aqui serão implementados no sistema)
 
 @div[center-img]
 ![drilldown](images/wirealta.png)
@@ -90,6 +90,14 @@
 @div[center-img]
 ![drilldown](images/mer.jpg)
 @divend
+
+---?image=images/phpfondo.jpg
+
+@snap[south-east]
+## @color[#ffffff](Desenvolvimento de sistemas)
+@snapend
+
+
 
 ---?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&color=white&title=Orientado a Objeto
 
@@ -109,9 +117,11 @@
 @div[left-50] 
 
 @ul
-- @css[orange](Calcule o tempo por recurso criado)
-- @css[orange](Reaproveitamento de código)
-- @css[orange](Documente todo o código)
+- @css[orange](Calcule) o tempo por recurso criado
+- @css[orange](Reaproveitamento) de código
+- @css[orange](Documente) todo o código
+- @css[orange](Organize) seu repositório
+- @css[orange](Divulgue) suas descobertas
 @ulend
 
 @divend
@@ -119,3 +129,7 @@
 @div[left-50] 
 ![destaque](images/img-2.gif)
 @divend
+
+---
+
+@css[title](O tempo é muito importante)
