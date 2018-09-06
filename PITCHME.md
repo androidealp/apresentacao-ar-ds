@@ -22,7 +22,7 @@
 @divend
 
 @div[left-50] 
- ![destaque](images/img-goms.jpg)
+ ![goms](images/imggoms.jpg)
 @divend
 
 ---
