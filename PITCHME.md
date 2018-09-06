@@ -22,7 +22,7 @@
 @divend
 
 @div[left-50] 
- ![goms](https://raw.githubusercontent.com/androidealp/apresentacao-ar-ds/master/images/imggoms.jpg)
+ ![goms](https://raw.githubusercontent.com/androidealp/apresentacao-ar-ds/master/images/task.png)
 @divend
 
 ---
