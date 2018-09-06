@@ -91,7 +91,7 @@
 ![drilldown](images/mer.jpg)
 @divend
 
----?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&title=Orientado a Objeto
+---?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&color=white&title=Orientado a Objeto
 
 @[1-5](Comentário principal do objeto)
 @[6](Objeto em si)
