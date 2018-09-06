@@ -53,9 +53,29 @@
 
 ---
 
-@css[title](Wire frame de baixa resolução)
+@css[title](Wireframe de baixa fidelidade)
 
-@css[subtitulo](O ideal é que todos os projetos tenha uma documentação clara e objetiva)
+@css[subtitulo](É o rascunho, esboço inicial, pode até ser desenhado no papel)
+
+![drilldown](images/drilldown.jpg)
+
+---
+
+@css[title](Wireframe de Media fidelidade)
+
+@css[subtitulo](Não possui o layout pronto, e sim detalhamento das funcionalidades e posições)
+
+![drilldown](images/wiremedia.jpg)
+
+
+---
+
+@css[title](MER)
+
+@css[subtitulo](Modelo de entidade relacional)
+@css[subtitulo](@css[orange](Este é o coração do projeto, toda a interação do sistema passa e deve ser prevista no MER))
+
+![drilldown](images/mer.jpg)
 
 ---
 
