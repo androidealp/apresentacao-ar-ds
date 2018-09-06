@@ -22,14 +22,14 @@
 @divend
 
 @div[left-50] 
- ![destaque](images/img-goms.png)
+ ![destaque](images/img-goms.jpg)
 @divend
 
 ---
 
 @css[title](O tempo é muito importante)
 
-@div[left-75] 
+@div[left-50] 
 
 @ul
 - @css[orange](Calcule o tempo por recurso criado)
@@ -39,6 +39,6 @@
 
 @divend
 
-@div[left-25] 
+@div[left-50] 
 ![destaque](images/img-2.gif)
 @divend
