@@ -132,4 +132,9 @@
 
 ---
 
-@css[title](O tempo é muito importante)
+@css[title](Siga esta receita)
+@css[subtitulo](@css[orange](Desta forma será mais produtivo e um ótimo profissional!))
+
+@snap[south]
+![programador](images/programador.gif)
+@snapend
