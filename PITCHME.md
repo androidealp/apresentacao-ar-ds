@@ -74,16 +74,14 @@
 
 @css[title](MER)
 
-@css[subtitulo](Modelo de entidade relacional)
-@css[subtitulo](@css[orange](Este é o coração do projeto, toda a interação do sistema passa e deve ser prevista no MER))
+@css[subtitulo](@css[orange](Modelo de entidade relacional) Este é o coração do projeto, toda a interação de banco é prevista por ele)
+
 
 @div[center-img]
 ![drilldown](images/mer.jpg)
 @divend
 
----
-
----?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&title=Orientação a objetos
+---?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&title=OO
 
 @[1-5](Comentário principal do objeto)
 @[6](Objeto em si)

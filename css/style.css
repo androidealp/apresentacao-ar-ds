@@ -12,6 +12,9 @@
 
 .subtitulo{
     color:#aaa;
+    display: block;
+    width: 100%;
+    font-size: 90% !important;
 }
 
 .orange{
@@ -51,6 +54,6 @@ ul.minurl li{
 {
     display: block;
     position: relative;
-    width: 350px;
-    margin:auto;
+    width: 500px;
+    margin: auto !important;
 }
