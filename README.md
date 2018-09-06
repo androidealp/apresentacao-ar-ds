@@ -1,6 +1,8 @@
-# apresentacao-ar-ds
+# Apresentação análise de requisitos e desenvolvimento de sistemas
+
 Apresentação sobre análise de requisitos e desenvolvimento de sistemas
 
-[link da apresentação](https://gitpitch.com/androidealp/apresentacao-ar-ds/master)
-[link dos meus Gists](https://gist.github.com/androidealp)
+- [link da apresentação](https://gitpitch.com/androidealp/apresentacao-ar-ds/master)
+
+- [link dos meus Gists](https://gist.github.com/androidealp)
 
