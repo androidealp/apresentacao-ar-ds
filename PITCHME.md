@@ -31,7 +31,8 @@
 
 @css[subtitulo](O ideal é que todos os projetos tenha uma documentação clara e objetiva)
 
-@ul
+@div[left-50] 
+@ul[minurl]
 - Detalhamento das ferramentas que serão usadas
 - Layout sugerido, junto com as referências para desenvolvimento
 - Detalhamento das páginas principais, as que tem muitos recursos
@@ -42,8 +43,13 @@
 *As horas podem sofre modificação por conta do wireframe e do banco de dados*
 @divend
 
+@divend
+
+@div[left-50] 
+
 ![documentacao](images/documentacao.gif)
- 
+
+ @divend
 
 ---
 
