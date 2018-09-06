@@ -29,6 +29,10 @@ img{
     box-shadow:none;
 }
 
+ul.minurl li{
+    font-size: 30px !important;
+}
+
 .destaque
 {
     width: 100%;
@@ -41,6 +45,12 @@ img{
     line-height: 50px;
 }
 
-ul.minurl li{
-    font-size: 30px !important;
+
+
+.center-img
+{
+    display: block;
+    position: relative;
+    width: 350px;
+    margin:auto;
 }

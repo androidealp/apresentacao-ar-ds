@@ -37,11 +37,8 @@
 - Layout sugerido, junto com as referências para desenvolvimento
 - Detalhamento das páginas principais, as que tem muitos recursos
 - Horas previsas para cada conjunto de informações
+- @css[destaque](*As horas podem sofre modificação por conta do wireframe e do banco de dados*)
 @ulend
-
-@div[destaque] 
-*As horas podem sofre modificação por conta do wireframe e do banco de dados*
-@divend
 
 @divend
 
@@ -57,7 +54,11 @@
 
 @css[subtitulo](É o rascunho, esboço inicial, pode até ser desenhado no papel)
 
+@div[center-img]
+
 ![drilldown](images/drilldown.jpg)
+
+@divend
 
 ---
 
@@ -65,8 +66,9 @@
 
 @css[subtitulo](Não possui o layout pronto, e sim detalhamento das funcionalidades e posições)
 
+@div[center-img]
 ![drilldown](images/wiremedia.jpg)
-
+@divend
 
 ---
 
@@ -75,7 +77,22 @@
 @css[subtitulo](Modelo de entidade relacional)
 @css[subtitulo](@css[orange](Este é o coração do projeto, toda a interação do sistema passa e deve ser prevista no MER))
 
+@div[center-img]
 ![drilldown](images/mer.jpg)
+@divend
+
+---
+
+---?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&title=Orientação a objetos
+
+@[1-5](Comentário principal do objeto)
+@[6](Objeto em si)
+@[8-11](Comentário e uma váriavel criada)
+@[23-29](Comentário do construtor)
+@[30-35](Construtor)
+@[42-45](Retorna o nome criado)
+@[69](Gero uma instância do objeto)
+@[71-72](Exibo na tela a requisição seuNome)
 
 ---
 
