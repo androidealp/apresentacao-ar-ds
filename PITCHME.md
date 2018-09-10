@@ -149,12 +149,12 @@
 @css[subtitulo](@css[orange](Nas manutenções detectamos a grande diferença entre as duas formas))
 
 @div[left-50]
-@css[orange](Orientado - ajustado e funcional)
+@css[orange](Orientado)
 ![sistema](images/lego-2.jpg)
 @divend
 
 @div[left-50]
-@css[orange](Procedural - multiplas falhas)
+@css[orange](Procedural)
 ![sistema](images/lego-desmontado.jpg)
 @divend
 
