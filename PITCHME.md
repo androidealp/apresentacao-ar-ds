@@ -108,34 +108,6 @@
 
 --- 
 
-@css[title](Diferenças entre sistemas)
-@css[subtitulo](@css[orange](Temos os orientados e os procedurais))
-
-@div[left-50]
-@css[orange](Orientado)
-![sistema](images/lego-1.jpg)
-@divend
-@div[left-50]
-@css[orange](procedural)
-![sistema](images/lego-1.jpg)
-@divend
-
---- 
-
-@css[title](Diferenças nas manutenções)
-@css[subtitulo](@css[orange](Nas manutenções detectamos a grande diferença entre as duas formas))
-
-@div[left-50]
-
-@css[orange](Orientado - ajustado e funcional)
-![sistema](images/lego-2.jpg)
-@divend
-@div[left-50]
-@css[orange](Procedural - multiplas falhas, insatisfação)
-![sistema](images/lego-desmontado.jpg)
-@divend
-
---- 
 
 @css[title](Sistema)
 @css[subtitulo](@css[orange](Sistema é um conjunto de objetos que possuem entradas e saidas de dados))
@@ -156,6 +128,35 @@
 - Herdada
 - Emcapsulado (juntar as partes)
 @ulend
+
+--- 
+
+@css[title](Diferenças entre sistemas)
+@css[subtitulo](@css[orange](Temos os orientados e os procedurais))
+
+@div[left-50]
+@css[orange](Orientado)
+![sistema](images/lego-1.jpg)
+@divend
+@div[left-50]
+@css[orange](Procedural)
+![sistema](images/lego-1.jpg)
+@divend
+
+--- 
+
+@css[title](Diferenças nas manutenções)
+@css[subtitulo](@css[orange](Nas manutenções detectamos a grande diferença entre as duas formas))
+
+@div[left-50]
+@css[orange](Orientado - ajustado e funcional)
+![sistema](images/lego-2.jpg)
+@divend
+
+@div[left-50]
+@css[orange](Procedural - multiplas falhas)
+![sistema](images/lego-desmontado.jpg)
+@divend
 
 
 ---?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&color=white&title=Orientado a Objeto
