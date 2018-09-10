@@ -97,6 +97,36 @@
 ## @color[#ffffff](Desenvolvimento de sistemas)
 @snapend
 
+--- 
+
+@css[title](Sistema Orientado a Objeto)
+@css[subtitulo](@css[orange](Sua criação é complexa e custosa, porém possibilita manutenção e extensão que proporciona estabilidade e customização para multiplos clientes))
+
+@snap[south]
+![sistema](images/sistema.gif)
+@snapend
+
+--- 
+
+@css[title](Sistema)
+@css[subtitulo](@css[orange](Sistema é um conjunto de objetos que possuem entradas e saidas de dados))
+
+@ul
+- Sistema Respiratório
+- Sistema Digestório
+- Sistema Hidraulico
+- Sistema Elétrico
+@ulend
+
+--- 
+@css[title](Orientação a objetos)
+@css[subtitulo](@css[orange](Conjunto de funções e métodos que definem a caracteristica de um programa))
+
+@ul
+- Polimórfico
+- Herdada
+- Emcapsulado (juntar as partes)
+@ulend
 
 
 ---?gist=androidealp/c7b2827c2e65ab4b9ff9eb567091ccee&lang=PHP&color=white&title=Orientado a Objeto
