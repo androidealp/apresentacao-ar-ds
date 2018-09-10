@@ -98,13 +98,13 @@
 @snapend
 
 --- 
-@snap[north]
+@div[left-50]
 @css[title](Sistema Orientado a Objeto)
 @css[subtitulo](@css[orange](Sua criação é complexa e custosa, porém possibilita manutenção e extensão que proporciona estabilidade e customização para multiplos clientes))
-@snapend
-@snap[south]
+@divend
+@div[left-50]
 ![sistema](images/sistema.gif)
-@snapend
+@divend
 
 --- 
 
